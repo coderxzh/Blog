@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3456424 */
+  src: url('iconfont.woff2?t=1654869751085') format('woff2'),
+       url('iconfont.woff?t=1654869751085') format('woff'),
+       url('iconfont.ttf?t=1654869751085') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-moonbyueliang:before {
+  content: "\e6a0";
+}
+
+.icon-qingtian:before {
+  content: "\e633";
+}
+
